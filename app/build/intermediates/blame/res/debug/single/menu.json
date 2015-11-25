@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/OM1/AndroidstudioProjects/Birthday Reminder/app/build/intermediates/res/merged/debug/menu/age_menu.xml",
+        "source": "/Users/OM1/AndroidstudioProjects/Birthday Reminder/app/src/main/res/menu/age_menu.xml"
+    },
+    {
+        "merged": "/Users/OM1/AndroidstudioProjects/Birthday Reminder/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/OM1/AndroidstudioProjects/Birthday Reminder/app/src/main/res/menu/main.xml"
+    }
+]
